@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Club Bing Bot\Club Bing Bot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Club Bing Bot\Club Bing Bot\obj\Debug\Xenix.AccountForm.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Club Bing Bot\Club Bing Bot\obj\Debug\Xenix.CaptchaForm.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Club Bing Bot\Club Bing Bot\obj\Debug\Xenix.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Club Bing Bot\Club Bing Bot\obj\Debug\Xenix.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Club Bing Bot\Club Bing Bot\obj\Debug\Xenix.SettingsForm.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Club Bing Bot\Club Bing Bot\obj\Debug\Club Bing Bot.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Club Bing Bot\Club Bing Bot\bin\Debug\Xenix.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Club Bing Bot\Club Bing Bot\bin\Debug\Xenix.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Club Bing Bot\Club Bing Bot\obj\Debug\Xenix.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Club Bing Bot\Club Bing Bot\obj\Debug\Xenix.pdb
